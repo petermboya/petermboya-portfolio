@@ -1,4 +1,4 @@
-# Peter Mboya | Portfolio
+# Peter Mboya and Godwin Gatere | Portfolio
 
 A single-page personal portfolio built with plain HTML, CSS, and JavaScript.
 
@@ -34,4 +34,4 @@ A single-page personal portfolio built with plain HTML, CSS, and JavaScript.
 
 ## What I Learned
 
-I learned how to render page content from JavaScript data instead of typing it into the HTML, and how to ship a project from a local folder to a live GitHub Pages site.# petermboya-portfolio
+We learned how to render page content from JavaScript data instead of typing it into the HTML, and how to ship a project from a local folder to a live GitHub Pages site.# petermboya-portfolio
