@@ -23,11 +23,6 @@ const projects = [
     title: "Project One",
     description: "This is a simple project showcasing my current skills and understanding of the programming languages I am currently studying ",
     tech: ["HTML", "CSS", "JavaScript"]
-  },
-  {
-    title: "",
-    description: "",
-    tech: ["HTML", "CSS"]
   }
 ];
 
