@@ -1,19 +1,19 @@
 // Testimonials stored in an object (each key is one testimonial)
 const testimonials = {
   testimonial1: {
-    name: "Jane Doe",
+    name: "Kelvin Murithi",
     role: "Course mentor",
-    text: "Replace this with a real testimonial about your work and attitude."
+    text: "Always asks the right questions and turns feedback into working code."
   },
   testimonial2: {
-    name: "John Smith",
+    name: "Elvis",
     role: "Classmate",
-    text: "Replace this with another testimonial. Ask a mentor or teammate to write one."
+    text: "Helped me fix a layout bug that had me stuck for hours. Patient, clear, and never makes you feel slow."
   },
   testimonial3: {
-    name: "Amina Yusuf",
+    name: "Godwin Gatere",
     role: "Project teammate",
-    text: "Replace this one too. Keep each testimonial to a sentence or two."
+    text: "Reliable and organised. Every commit was small, clearly named, and easy to review.."
   }
 };
 
