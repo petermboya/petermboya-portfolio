@@ -21,7 +21,7 @@ const testimonials = {
 const projects = [
   {
     title: "Project One",
-    description: "This is a simple project showcasing my current skills and understanding of the programming languages we are currently studying at Moringa school ",
+    description: "This is a simple project showcasing our current skills and understanding of the programming languages we are currently studying at Moringa school ",
     tech: ["HTML", "CSS", "JavaScript"]
   }
 ];
