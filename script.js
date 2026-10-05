@@ -21,12 +21,12 @@ const testimonials = {
 const projects = [
   {
     title: "Project One",
-    description: "A short description of what this project does and why you built it.",
+    description: "This is a simple project showcasing my current skills and understanding of the programming languages I am currently studying ",
     tech: ["HTML", "CSS", "JavaScript"]
   },
   {
-    title: "Project Two",
-    description: "Another short description. Mention one thing you are proud of.",
+    title: "",
+    description: "",
     tech: ["HTML", "CSS"]
   }
 ];
